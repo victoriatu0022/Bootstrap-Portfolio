@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-assignment 2 continue bootstrap portfolio
+# Portfolio
+for assignment #2 (started over)
